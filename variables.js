@@ -19,6 +19,7 @@ for (let i = 0; i < 10; i++) {
     console.log("the value of i:" + i);
 }
 console.log("_________________________________________________________________________");
+
 while (x < 12) {
     x++;
     console.log("the value of x:" + x);

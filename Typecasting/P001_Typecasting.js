@@ -1,5 +1,6 @@
 
 //problem 1
+console.log()
 let price = "500";
 price = Number(price);
 
